@@ -1,0 +1,18 @@
+{
+	"modules": { 
+		"CitationProverbe": {
+			"version": "1.0",
+			"name": "CitationProverbe",
+			"tts": {
+				"Salon": "d'accord",
+				"Cuisine": "d'accord"
+			},
+			"clients": {
+				"Salon": 60,
+				"Cuisine": 50
+			},
+			"rules": ["quote","proverb"]
+		}
+	}
+}
+			
