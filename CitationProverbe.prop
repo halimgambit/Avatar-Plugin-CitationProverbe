@@ -1,0 +1,10 @@
+{
+	"modules": { 
+		"CitationProverbe": {
+			"version": "1.0",
+			"name": "provebe",
+			"rules": ["proverb","quote"]
+		}
+	}
+}
+			
